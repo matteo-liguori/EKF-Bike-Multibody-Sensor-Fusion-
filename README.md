@@ -15,7 +15,10 @@ This recognition validates our commitment to creating educational resources that
 
 This project is now also on the MathWorks github repository, links below. For more details about the award and MathWorks' educational programs, please visit their project page and program page.
 
-Project page Matlab: 
+Project page Matlab:
+
 https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Sensor%20Fusion%20for%20Autonomous%20Systems
-Program page Matlab: 
+
+Program page Matlab:
+
 https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main
