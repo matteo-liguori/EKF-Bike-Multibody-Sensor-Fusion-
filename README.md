@@ -1,3 +1,5 @@
+![Screenshot](screenshot.png)
+
 # Individual Engineering Project - Comparative Analysis of Sensor Fusion Techniques for State Estimation
 ## Abstract
 
