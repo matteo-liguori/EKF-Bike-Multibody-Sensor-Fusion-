@@ -1,4 +1,4 @@
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/matteo-liguori/EKF-Bike-Multibody-Sensor-Fusion-/blob/main/Intro.gif))
+![](Intro.gif)
 
 # Individual Engineering Project - Comparative Analysis of Sensor Fusion Techniques for State Estimation
 ## Abstract
